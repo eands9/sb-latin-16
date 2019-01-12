@@ -14,7 +14,7 @@ class WordBank{
     init(){
         list.append(Word(word:"necessary", sentence:""))
         list.append(Word(word:"adjacent", sentence:""))
-        list.append(Word(word:"dissect", sentence:"***"))
+        list.append(Word(word:"perennial", sentence:""))
         list.append(Word(word:"conjecture", sentence:""))
         list.append(Word(word:"imperative", sentence:""))
     }
